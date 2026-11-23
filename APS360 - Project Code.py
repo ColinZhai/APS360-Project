@@ -1,6 +1,3 @@
-
-
-# Confirm where the Python kernel is running before accessing the dataset.
 import sys  # Inspect the Python interpreter used by this notebook.
 import platform  # Identify the operating system of the runtime.
 from pathlib import Path  # Work with local file and folder paths.
